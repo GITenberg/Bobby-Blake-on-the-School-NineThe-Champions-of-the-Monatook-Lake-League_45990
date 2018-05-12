@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '41909'
     url: http://www.gutenberg.org/2009/agents/41909
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45990#Bobby-Blake-on-the-School-NineThe-Champions-of-the-Monatook-Lake-League
 gutenberg_issued: '2014-06-15'
 gutenberg_type: Text
 identifiers:
